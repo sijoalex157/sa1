@@ -1,2 +1,1 @@
-# sa1
-This is my first repository
+# Dashboard for Stock Market prediction and using PowerBI 
